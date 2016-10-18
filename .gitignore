@@ -44,4 +44,5 @@ jspm_packages
 *.tgz
 
 #Idea
+*.idea
 .idea/workspace.xml
